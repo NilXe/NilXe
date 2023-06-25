@@ -1,4 +1,6 @@
-### 使用机器学习来预测电信用户流失 👋
+### 
+使用机器学习来预测电信用户流失
+电信用户流失是一个重要的问题，对于电信运营商来说具有关键的商业意义。当用户选择离开并转向竞争对手时，电信公司会面临客户损失和收入下降的风险。因此，通过预测用户流失，可以帮助电信运营商制定适当的策略以挽留潜在流失客户并提高客户保留率。👋
 
 <!--
 **NilXe/NilXe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
